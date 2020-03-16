@@ -47,3 +47,103 @@ body
 .cell {border:1px solid rgb(221, 15, 128);display:table-cell}
 
 .tabl {width: 50%; float: right;}
+
+
+
+.hero{
+  width:95%;
+  margin: auto;
+}
+.navbar{
+  margin:30px auto;
+  display:flex;
+
+}
+
+
+.corna{
+ 
+  margin-left: 60px;
+  display:flex;
+  padding: 25px;
+  }
+    .van{
+      flex:1;
+     ;
+      float:left;
+    }
+    .van,.nav-itema {
+      display: block;
+      margin-block-start:1rem;
+      margin-block-end:1rem;
+      margin-inline-start:0px;
+      margin-inline-end:0px;
+      list-style:none;
+      margin: initial;
+      padding:14px 14px;
+      text-align: left;
+    }
+
+
+    .corna{
+     
+      border-radius: 25px;
+  background-color: rgb(211, 238, 241);
+
+  width: 1200px;
+ 
+  height: 15px;
+  margin-bottom: 1rem;
+}
+
+
+  .van li {
+    display: inline-block;
+    padding: 2px;
+    width: 150px;
+    
+    }
+  
+.nav-itema{
+  float: left;
+}
+
+.navv{
+  margin-right: 20px; 
+}
+
+
+.corn{
+  margin-right: 70px;
+}
+
+
+.hera{
+  
+  flex:right ;
+  float: right;
+
+}
+
+
+
+
+
+.raju{
+
+  margin-left: 1px;
+  margin-right: 500px;
+  display: flex;
+ 
+}
+.floatLeft { width: 60%; float: left; margin-left:30px;}
+.floatRight {width: 30%;margin:10px; float: right; }
+.firstt{
+  margin:30px auto;
+}
+.fa-plus-circle{
+  color:red;
+}
+.th{
+  color:red;
+}
